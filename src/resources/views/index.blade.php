@@ -1,1 +1,1 @@
-<p>feature/challenge2で修正したよ</p>
+<p>feature/challenge2で修正しでやんす</p>
