@@ -4,7 +4,7 @@
 <p>feature/challenge2で修正しでやんす<span>⭐️</span></p>
 <p>修正</p>
 
-<table>
+<table class="table">
     <tr>
         <th></th>
         <th></th>
