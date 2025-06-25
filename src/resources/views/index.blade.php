@@ -2,4 +2,4 @@
 
 <p>このコードをコンフリクトさせるわよん</p>
 <p>feature/challenge2で修正しでやんす<span>⭐️</span></p>
-<p>追加</p>
+<p>修正</p>
